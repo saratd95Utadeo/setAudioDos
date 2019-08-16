@@ -1,0 +1,55 @@
+{
+  "/color-blue": {"value": 33},
+  "/hora": {"text": "0"},
+  "/speed": {
+    "min": 1,
+    "max": 20,
+    "value": 3.4000003337860107
+  },
+  "/color-red": {"value": 241},
+  "/infoTexto": {
+    "stringValue": "* Press enter when finish to typewrite in timebox",
+    "value": 0
+  },
+  "/NumPuntos": {
+    "min": 1,
+    "max": 20,
+    "value": 20
+  },
+  "/blend": {"value": 201.4500732421875},
+  "/X": {
+    "min": -1280,
+    "max": 1280,
+    "value": -530.7317504882812
+  },
+  "/Y": {
+    "min": -768,
+    "max": 768,
+    "value": 186.810791015625
+  },
+  "/Z": {"value": 7.199991226196289},
+  "/minuto": {"text": "20"},
+  "/secondTexto": {
+    "stringValue": "",
+    "value": 0
+  },
+  "/hourTexto": {
+    "stringValue": "",
+    "value": 0
+  },
+  "/sonidoExtremos": {"value": 1},
+  "/color-green": {"value": 179},
+  "/Distancia": {
+    "min": 20,
+    "max": 400,
+    "value": 60
+  },
+  "/segundo": {"text": "00"},
+  "/minuteTexto": {
+    "stringValue": "",
+    "value": 0
+  },
+  "/sonidoPuntos": {"value": 1},
+  "/movimiento": {"value": 1},
+  "/state": {"value": 0}
+}
